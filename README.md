@@ -133,6 +133,5 @@ Avoir des bases en :
 
   Ce projet est une porte d’entrée idéale dans le monde du développement d’API avec Symfony 🧠. Il combine des concepts fondamentaux comme la sécurité, la persistance des données, les notifications et la documentation API – le tout
   
-  dans un cas réel de gestion universitaire au Sénégal 🇸🇳.
-
-                            👉 Un projet pédagogique, utile, moderne et complet pour apprendre tout en construisant une vraie application API-first !
+  dans un cas réel de gestion universitaire .
+👉 Un projet pédagogique, utile, moderne et complet pour apprendre tout en construisant une vraie application API-first !
